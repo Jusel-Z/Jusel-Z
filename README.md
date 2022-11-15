@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jusel-Z
 - 👀 I’m interested in art
 - 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on making friends
+- 💞️ I’m looking to collaborate on 入门
 - 📫 How to reach me juselzhou@outlook.com
 
 <!---
